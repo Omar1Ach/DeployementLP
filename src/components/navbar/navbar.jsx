@@ -142,7 +142,7 @@ const Navbar2 = () => {
                     <p className="text-sm">Call us on</p>
                     <p className="text-lg">
                       {" "}
-                      <a href="tel:+91123456789">+91 123456789</a>
+                      <a href="tel:+212 618646886">+212 618646886</a>
                     </p>
                   </div>
                 </li>
